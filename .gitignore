@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# 실제 사용자 데이터 (개인 금융·동선 정보, 공개 금지)
+data/private/
